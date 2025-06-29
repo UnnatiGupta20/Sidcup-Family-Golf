@@ -3,10 +3,10 @@ Sidcup Family Golf 🌿🏏️
 An animated and interactive website inspired by the original Sidcup Family Golf brand. This project helped me practice and learn real-world frontend development skills such as GSAP animations, custom cursors, overlay effects, and even a custom-styled scrollbar.
 
 🔧 Tech Stack:-
-     HTML5
-     CSS3(with WebKit customizations)
-     JavaScript 
-     GSAP +ScrollTrigger
+    * HTML5 
+    *CSS3(with WebKit customizations)
+    *JavaScript 
+    *GSAP +ScrollTrigger
 
 ✨ Features:-
 
